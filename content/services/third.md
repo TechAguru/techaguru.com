@@ -1,12 +1,11 @@
 +++
 date = "2015-07-18T14:53:21+02:00"
 draft = false
-title = "third"
-img = "services/phones.png"
+title = "Consulting & Development"
+img = "services/consulting.jpg"
 weight = 3
 +++
 
-Contact buttons will be automatically created if one or more [[params.social]] is configured in config.toml:
+Our team of engineers advises businesses who want to take the next step in affordable sensor and control systems (otherwise known as internet of things).
 
-title parameter sets the text to be displayed on the contact button
-icon parameter sets which Font Awesome icon will be displayed
+We primarily work with open systems since these allow organizations to have a secure, lower total cost of ownership (TCO) and sustainable solutions.

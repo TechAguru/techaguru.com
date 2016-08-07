@@ -1,24 +1,24 @@
-baseurl = "http://yourdomain.com"
+baseurl = "http://techaguru.com"
 languageCode = "en-us"
-title = "WidgetCo Inc"
+title = "TechAguru"
 canonifyUrls = "true"
 
 [params]
-    description = "The best widgets in the world!"
-
+    description = "Co-creating the future of farming."
+    googleAnalytics = "UA-66137010-1"
+[[params.social]]
+    title = "blog"
+    icon = "medium"
+    url = "https://blog.techaguru.com"
 [[params.social]]
     title = "email"
     icon = "envelope-o"
-    url = "mailto:bushbama@whitehouse.gov"
+    url = "mailto:ask@techaguru.com"
+[[params.social]]
+    title = "facebook"
+    icon = "facebook"
+    url = "https://facebook.com/TechAguru"
 [[params.social]]
     title = "twitter"
     icon = "twitter"
-    url = "https://twitter.com/SBootstrap"
-[[params.social]]
-    title = "github"
-    icon = "github"
-    url = "https://github.com/IronSummitMedia/startbootstrap"
-[[params.social]]
-    title = "linkedin"
-    icon = "linkedin"
-    url = "http://linkedin.com/in/yourusername"
+    url = "https://twitter.com/TechAguru"

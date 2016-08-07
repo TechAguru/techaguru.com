@@ -1,12 +1,11 @@
 +++
 date = "2015-07-18T14:08:45+02:00"
 draft = false
-title = "second"
+title = "Sensor Systems"
 weight = 2
-img = "services/ipad.png"
+img = "services/sensor.jpg"
 +++
 
-Override the default intro and contact backgrounds by putting images in these files:
+Farm optimization starts with having a reliable data sets to work with.
 
-img/intro-bg.jpg
-img/contact-bg.jpg
+Affordable sensor network systems that work around unreliable communications infrastructure is necessary to gather data in open fields.
