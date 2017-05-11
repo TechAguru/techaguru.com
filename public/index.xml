@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechAguru</title>
+    <link>http://www.techaguru.com/</link>
+    <description>Recent content on TechAguru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:53:21 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.techaguru.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Germinating Local Talent</title>
+      <link>http://www.techaguru.com/services/germinating_local_talent/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>http://www.techaguru.com/services/germinating_local_talent/</guid>
+      <description>We nurture local talent in software defined radios, cloud computing, and electronics design and manufacturing.
+Our hope is to be able to create a strong team within five years with the capability of designing, implementing, supporting, and manufacturing (local or contract out) agri-tech systems that fits the local price point.
+We have a modern working environment and believe in trusting and empowering each team member.</description>
+    </item>
+    
+    <item>
+      <title>IoT for Agriculture</title>
+      <link>http://www.techaguru.com/services/iot_for_agriculture/</link>
+      <pubDate>Mon, 08 May 2017 14:08:45 +0200</pubDate>
+      
+      <guid>http://www.techaguru.com/services/iot_for_agriculture/</guid>
+      <description>The promise of IoT for agriculture is to increase quality, increase yield, and minimize resource use with data collected in real-time.
+With our frugal innovation approach, we heavily invest in building sensors to anticipate a future where small-holder farmers work alongside robots and automated systems to grow fresh food we can all enjoy.
+Scaling this technology requires multiple stakeholders to work together.</description>
+    </item>
+    
+    <item>
+      <title>Controlled Growing Environment</title>
+      <link>http://www.techaguru.com/services/controlled_growing_environment/</link>
+      <pubDate>Mon, 08 May 2017 14:08:29 +0200</pubDate>
+      
+      <guid>http://www.techaguru.com/services/controlled_growing_environment/</guid>
+      <description>We take a systems approach in building controlled growing environments.
+On the commercial size, low capital and operational cost drives of these systems are key to realizing this as a viable way of growing our food.
+On the research side, controlled growing environments enable scientists to find varieties fit for various growing conditions.
+On the educational side, the controlled environment is a great example of a multi-disciplinary approach to solving problems.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://www.techaguru.com/about/about/</link>
+      <pubDate>Mon, 08 May 2017 14:08:35 +0200</pubDate>
+      
+      <guid>http://www.techaguru.com/about/about/</guid>
+      <description>We envision a future where small-holder farmers happily grow our food alongside robots and automated systems.
+TechAguru is an agri-tech company built by Filipino &amp;ldquo;makers&amp;rdquo; and engineers for a more inclusive world.
+Our team is currently at research and development stage, and partners with institutions with similar goals.</description>
+    </item>
+    
+  </channel>
+</rss>

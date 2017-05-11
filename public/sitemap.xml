@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.techaguru.com/services/germinating_local_talent/</loc>
+    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.techaguru.com/services/iot_for_agriculture/</loc>
+    <lastmod>2017-05-08T14:08:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.techaguru.com/services/controlled_growing_environment/</loc>
+    <lastmod>2017-05-08T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.techaguru.com/about/about/</loc>
+    <lastmod>2017-05-08T14:08:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.techaguru.com/about/</loc>
+    <lastmod>2017-05-08T14:08:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.techaguru.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.techaguru.com/services/</loc>
+    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.techaguru.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.techaguru.com/</loc>
+    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

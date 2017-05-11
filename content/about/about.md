@@ -1,12 +1,12 @@
 +++
-date = "2015-07-18T14:08:35+02:00"
+date = "2017-05-08T14:08:35+02:00"
 draft = false
 title = "About Us"
 
 +++
 
-TechAguru is an agriculture technology company building innovative open solutions for the future of food.
+We envision a future where small-holder farmers happily grow our food alongside robots and automated systems.
 
-We need to be consistently producing safe quality food at an affordable cost close to where it is consumed.
+TechAguru is an agri-tech company built by Filipino "makers" and engineers for a more inclusive world.
 
-Our team is hard at work building controlled environment farms that can be scaled out to conduct plant research and grow food at the lowest cost possible. This will enable us to gather large data sets to train artificial intelligence engines to build automation systems.
+Our team is currently at research and development stage, and partners with institutions with similar goals.
